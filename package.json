@@ -62,7 +62,7 @@
     "vuetify": "^3.7.3",
     "vuex": "^4.1.0",
     "web3": "^4.15.0",
-    "web3-eth-contract": "^4.5.0"
+    "web3-eth-contract": "^4.7.1"
   },
   "devDependencies": {
     "@intlify/vue-i18n-loader": "^4.2.0",
